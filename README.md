@@ -9,3 +9,5 @@ lt --port 3000 --subdomain eltonina
 * The security check has been integrated in the nom command 
 
 * Dependence of babel(transpiler), webpack(bundle)
+
+* To use Sourcemap to debug the app: debugger 
