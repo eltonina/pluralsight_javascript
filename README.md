@@ -1,8 +1,7 @@
 # pluralsight_javascript
 Used to practice courses
 
-* Uso el paquete localtunnel(globally) to share my Work in Progress (WIP):
-lt --port 3000 --subdomain eltonina
+* Uso el paquete localtunnel(globally) to share my Work in Progress (WIP): lt --port 3000 --subdomain eltonina
 
 * We can use the snpm start -s to have a silence mode
 
@@ -11,3 +10,5 @@ lt --port 3000 --subdomain eltonina
 * Dependence of babel(transpiler), webpack(bundle)
 
 * To use Sourcemap to debug the app: debugger 
+
+* Using ESLint as Linter
