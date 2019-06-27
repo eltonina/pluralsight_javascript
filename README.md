@@ -7,3 +7,5 @@ lt --port 3000 --subdomain eltonina
 * We can use the snpm start -s to have a silence mode
 
 * The security check has been integrated in the nom command 
+
+* Dependence of babel(transpiler), webpack(bundle)
