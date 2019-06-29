@@ -12,3 +12,15 @@ Used to practice courses
 * To use Sourcemap to debug the app: debugger 
 
 * Using ESLint as Linter
+
+* Testing 
+  - Framework: (Mocha), Jasmine, Tape, QUnit, Ava, Jest
+  - Assertion: (Chai), Expect, Should
+  - Helper Library: (JSDOM), Cheerio
+  - Where test: (Node) 
+    + Browser: Karma, Testem
+    + Headless Browser: PhantomJS
+    + In-memory DOM (Node-JSDOM)
+  - Where to place Test: Alongside (.spec or .test)
+  - When test should run (When Saving)
+
