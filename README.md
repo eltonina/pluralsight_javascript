@@ -24,3 +24,6 @@ Used to practice courses
   - Where to place Test: Alongside (.spec or .test)
   - When test should run (When Saving)
 
+* Continuos Integration
+  - Using Travis CI -> SignUp with the GitHub account
+  
