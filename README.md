@@ -25,5 +25,5 @@ Used to practice courses
   - When test should run (When Saving)
 
 * Continuos Integration
-  - Using Travis CI -> SignUp with the GitHub account
-  
+  - Using Travis CI (Linux) -> SignUp with the GitHub account
+  - Using AppVeyor CI(Windows) -> SignUp with the GitHub account
