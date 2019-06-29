@@ -18,4 +18,8 @@ test_script:
   - node --version
   - npm --version
 
-  build: off
+  # run tests
+  - npm test
+
+# Don't actually build.
+build: off
