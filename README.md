@@ -27,3 +27,14 @@ Used to practice courses
 * Continuos Integration
   - Using Travis CI (Linux) -> SignUp with the GitHub account
   - Using AppVeyor CI(Windows) -> SignUp with the GitHub account
+
+* Fetch to call APIs
+
+* Mocking HTTP
+  - JSON Schema faker (json-shema.org)
+  - Generate Random Data
+    + faker.js
+    + chance.js
+    + randexp.js
+  - Serve Data via API
+    + JSON Server
