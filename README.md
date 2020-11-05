@@ -11,6 +11,8 @@ Used to practice courses
 
 * To use Sourcemap to debug the app: debugger 
 
+----
+
 * Using ESLint as Linter
 
 * Testing 
